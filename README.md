@@ -1,2 +1,1 @@
 # delivery-configs
-# delivery-configs
